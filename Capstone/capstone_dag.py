@@ -70,10 +70,7 @@ create_db_tables = DBBuilderOperator(
 # config = configparser.ConfigParser()
 # config.read(config_path)
 
-# config = {'AWS_S3_REGION' : 'us-east-2',
-# 'AWS_S3_BUCKET' : 'udacity-practice-bucket',
-# 'AWS_ACCESS_KEY_ID' : 'AKIAU77YPWXFNVGXAJNP',
-# 'AWS_SECRET_ACCESS_KEY' : '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'}
+
 
 
 
