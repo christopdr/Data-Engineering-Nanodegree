@@ -158,7 +158,7 @@ CREATE_TABLES_QUERIES_MAP = [
   {'table_name' : 'airport_code', 'sql_query' : CREATE_AIRPORT_CODE_TABLE},
   {'table_name' : 'global_temperature', 'sql_query' : CREATE_GLOBAL_TEMPERATURE_TABLE}]
 
-  #cluster22Con
+
 
 
 
